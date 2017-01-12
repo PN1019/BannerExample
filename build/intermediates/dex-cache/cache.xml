@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\abhi\AndroidStudioProjects\BannerExample_AdMob\BannerExample\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="C:\Users\abhi\AndroidStudioProjects\BannerExample_AdMob\BannerExample\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-9.0.0_4577da38e77c226e5908cfea0add8d980b7345fb.jar" />
+    </item>
+    <item
+        jar="C:\Users\abhi\AndroidStudioProjects\BannerExample_AdMob\BannerExample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\abhi\AndroidStudioProjects\BannerExample_AdMob\BannerExample\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_ca2f882f282ec94e71ebb4c8d0e2bc7f78af3275.jar" />
+    </item>
+    <item
+        jar="C:\Users\abhi\AndroidStudioProjects\BannerExample_AdMob\BannerExample\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="C:\Users\abhi\AndroidStudioProjects\BannerExample_AdMob\BannerExample\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-9.0.0_f10fda0d55f1e9c46b725df3608e082b3f81c82a.jar" />
+    </item>
+    <item
+        jar="C:\Users\abhi\AndroidStudioProjects\BannerExample_AdMob\BannerExample\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="C:\Users\abhi\AndroidStudioProjects\BannerExample_AdMob\BannerExample\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.0.0_efde6123767fa3948a9111f62b1aa988eee59cb7.jar" />
+    </item>
+    <item
+        jar="C:\Users\abhi\AndroidStudioProjects\BannerExample_AdMob\BannerExample\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\abhi\AndroidStudioProjects\BannerExample_AdMob\BannerExample\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_abfa23bfeb5e865a65da4727b91b6d75ce1e5733.jar" />
+    </item>
+    <item
+        jar="C:\Users\abhi\AndroidStudioProjects\BannerExample_AdMob\BannerExample\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="C:\Users\abhi\AndroidStudioProjects\BannerExample_AdMob\BannerExample\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.0.0_bce56aa871e647bfe5d7b79b4eac200edee2fbb7.jar" />
+    </item>
+    <item
+        jar="C:\Users\abhi\AndroidStudioProjects\BannerExample_AdMob\BannerExample\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\abhi\AndroidStudioProjects\BannerExample_AdMob\BannerExample\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_92efb66c63302f91fc2fcf5fc11075611fd6d378.jar" />
+    </item>
+    <item
+        jar="J:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\abhi\AndroidStudioProjects\BannerExample_AdMob\BannerExample\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_dd1f26e2809251d4142640d4166b16c9322f17f3.jar" />
+    </item>
+    <item
+        jar="C:\Users\abhi\AndroidStudioProjects\BannerExample_AdMob\BannerExample\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="C:\Users\abhi\AndroidStudioProjects\BannerExample_AdMob\BannerExample\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.0.0_257c6faa5aad4fdfa90afe01b3cdc9080e9086ca.jar" />
+    </item>
+    <item
+        jar="C:\Users\abhi\AndroidStudioProjects\BannerExample_AdMob\BannerExample\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\abhi\AndroidStudioProjects\BannerExample_AdMob\BannerExample\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_485222a54582600404f1f52a63b7de838f30e3be.jar" />
+    </item>
+    <item
+        jar="C:\Users\abhi\AndroidStudioProjects\BannerExample_AdMob\BannerExample\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\abhi\AndroidStudioProjects\BannerExample_AdMob\BannerExample\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_c84060ecba787d575f77fb8f55acc6618ba47224.jar" />
+    </item>
+    <item
+        jar="C:\Users\abhi\AndroidStudioProjects\BannerExample_AdMob\BannerExample\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="C:\Users\abhi\AndroidStudioProjects\BannerExample_AdMob\BannerExample\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.0.0_187a26fe695bc1c6a65f78b18cf0d9e197823f2a.jar" />
+    </item>
+    <item
+        jar="C:\Users\abhi\AndroidStudioProjects\BannerExample_AdMob\BannerExample\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="C:\Users\abhi\AndroidStudioProjects\BannerExample_AdMob\BannerExample\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.0.0_eeddcd01a1e6c414d9437e9b7e19466b855ff406.jar" />
+    </item>
+    <item
+        jar="C:\Users\abhi\AndroidStudioProjects\BannerExample_AdMob\BannerExample\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="C:\Users\abhi\AndroidStudioProjects\BannerExample_AdMob\BannerExample\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.0.0_83557e4e49b3ccdb072f8b83a929d5477039f32c.jar" />
+    </item>
+    <item
+        jar="C:\Users\abhi\AndroidStudioProjects\BannerExample_AdMob\BannerExample\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="C:\Users\abhi\AndroidStudioProjects\BannerExample_AdMob\BannerExample\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.0.0_f60d72194fd8a52b0d529b98edb0e7bf1ae018d8.jar" />
+    </item>
+
+</items>
